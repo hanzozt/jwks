@@ -10,7 +10,7 @@ grander.
 
 ## Add To Your Project:
 
-`go get -u github.com/openziti/jwks@latest`
+`go get -u github.com/hanzozt/jwks@latest`
 
 ## Basic resolver usage:
 ```

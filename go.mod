@@ -1,4 +1,4 @@
-module github.com/openziti/jwks
+module github.com/hanzozt/jwks
 
 go 1.19
 
